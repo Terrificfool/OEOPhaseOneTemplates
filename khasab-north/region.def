@@ -1,6 +1,6 @@
 region = {
     ["name"] = "khasab-north",
-    ["priority"] = 10,
+    ["priority"] = 20,
     ["limits"] = {
         ["sam"] = {
             ["min"] = 0,

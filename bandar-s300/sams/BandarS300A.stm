@@ -1157,6 +1157,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "3x Radar/Control primary\
-6x Launcher secondary",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-10 GRUMBLE SAM site at %LOCATION%, near Bandar Abbas Intl.\
+\
+Primary Objectives: Destroy the FLAP LID Fire Control RADAR and command post.\
+\
+Secondary Objectives: Destroy any other related equipment, including TELs (Transporter, Erector, Launchers).\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate

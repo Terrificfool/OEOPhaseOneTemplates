@@ -1,6 +1,6 @@
 region = {
     ["name"] = "khasab",
-    ["priority"] = 10,
+    ["priority"] = 20,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

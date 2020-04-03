@@ -1192,11 +1192,11 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SA-3 Goa site at %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-3 GOA SAM site at %LOCATION%, near Bandar Abbas Intl.\
 \
-Primary Objectives: Destroy the SA-3 emplacement and any supporting infrastructure.\
+Primary Objectives: Destroy the LOW BLOW Fire Control RADAR.\
 \
-Secondary Objectives: N/A.\
+Secondary Objectives: Destroy any related equipment, including launchers.\
 \
 Recommended Pilots: 2-4\
 \

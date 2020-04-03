@@ -1469,6 +1469,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "1x Fan Song Primary\
-6 Launchers Secondary",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-2 GUIDELINE SAM site on Sirri Island, %LOCATION%.\
+\
+Primary Objectives: Destroy the FAN SONG Fire Control RADAR.\
+\
+Secondary Objectives: Destroy any related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
 } -- end of staticTemplate

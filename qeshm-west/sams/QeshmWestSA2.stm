@@ -1804,13 +1804,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% an active SA-2 Guideline SAM site on Qeshm Island, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% an active SA-2 GUIDELINE SAM site on Qeshm Island, %LOCATION%.\
 \
-Primary Objectives: Destroy the RADAR elements of the SA-2 site.\
+Primary Objectives: Destroy the FAN SONG Fire Control RADAR.\
 \
-Secondary Objectives: Destroy any remaining infrastructure related to the SAM site.\
+Secondary Objectives: Destroy any related equipment, including launchers.\
 \
-Recommended Pilots: 2\
+Recommended Pilots: 2-4\
 \
 Recommended Ordnance: Anti-Radiation Missiles, precision guided long range weapons (I.E. JSOW, AGM-65).",
 } -- end of staticTemplate

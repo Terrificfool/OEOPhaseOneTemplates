@@ -1052,6 +1052,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "1x STRs Primary\
-4x Launchers Secondary",
+    ["desc"] = "%LOCATIONMETHOD% an active SA-6 GAINFUL SAM site at %LOCATION%, in the vicinity of Khasab.\
+\
+Primary Objectives: Destroy all equipment at the site.\
+\
+Secondary Objectives: N/A.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate

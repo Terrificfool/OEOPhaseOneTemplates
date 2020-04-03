@@ -1149,6 +1149,13 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "6x Launchers Secondary\
-5x Radar/Control Units Primary",
+    ["desc"] = "%LOCATIONMETHOD% an active HAWK SAM site at %LOCATION%, on Abu Musa Island.\
+\
+Primary Objectives: Destroy the AN/MPQ-46 Fire Control RADAR and command post.\
+\
+Secondary Objectives: Destroy any other related equipment, including launchers.\
+\
+Recommended Pilots: 2-4\
+\
+Recommended Ordnance: Anti-radiation missiles (AGM-88C etc.), long range standoff weaponry (JSOW etc.).",
 } -- end of staticTemplate

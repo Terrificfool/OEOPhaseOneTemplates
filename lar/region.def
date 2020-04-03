@@ -1,6 +1,6 @@
 region = {
     ["name"] = "lar",
-    ["priority"] = 30,
+    ["priority"] = 50,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 1,

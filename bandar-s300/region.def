@@ -1,6 +1,6 @@
 region = {
     ["name"] = "bandar-s300",
-    ["priority"] = 30,
+    ["priority"] = 40,
     ["limits"] = {
         ["sam"] = {
             ["min"] = 1,
