@@ -2,6 +2,10 @@ region = {
     ["name"] = "islands",
     ["priority"] = 10,
     ["limits"] = {
+		["shorad"] = {
+            ["min"] = 2,
+            ["max"] = 4,
+		},
         ["ammodump"] = {
             ["min"] = 1,
             ["max"] = 2,
