@@ -1,6 +1,6 @@
 region = {
     ["name"] = "bandar abbas",
-    ["priority"] = 40,
+    ["priority"] = 50,
     ["limits"] = {
 		["shorad"] = {
             ["min"] = 2,

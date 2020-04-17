@@ -1,6 +1,6 @@
 region = {
     ["name"] = "qeshm east",
-    ["priority"] = 30,
+    ["priority"] = 40,
     ["limits"] = {
         ["ammodump"] = {
             ["min"] = 0,
