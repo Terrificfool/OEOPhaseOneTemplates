@@ -3,7 +3,7 @@ region = {
     ["priority"] = 40,
     ["limits"] = {
         ["ammodump"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 1,
         },
         ["bunker"] = {

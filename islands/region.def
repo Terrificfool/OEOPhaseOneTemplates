@@ -11,11 +11,11 @@ region = {
             ["max"] = 2,
         },
         ["bunker"] = {
-            ["min"] = 1,
-            ["max"] = 1,
+            ["min"] = 0,
+            ["max"] = 0,
         },
         ["checkpoint"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 1,
         },
         ["c2"] = {
@@ -27,11 +27,11 @@ region = {
             ["max"] = 1,
         },
         ["factory"] = {
-            ["min"] = 1,
-            ["max"] = 1,
+            ["min"] = 0,
+            ["max"] = 0,
         },
         ["fueldump"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 2,
         },
         ["missile"] = {
