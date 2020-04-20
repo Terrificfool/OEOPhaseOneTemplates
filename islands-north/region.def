@@ -1,14 +1,14 @@
 region = {
-    ["name"] = "islands",
+    ["name"] = "islands-north",
     ["priority"] = 20,
     ["limits"] = {
 		["shorad"] = {
-            ["min"] = 2,
-            ["max"] = 4,
-		},
-        ["ammodump"] = {
             ["min"] = 1,
             ["max"] = 2,
+		},
+        ["ammodump"] = {
+            ["min"] = 0,
+            ["max"] = 1,
         },
         ["bunker"] = {
             ["min"] = 0,
@@ -19,7 +19,7 @@ region = {
             ["max"] = 1,
         },
         ["c2"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 1,
         },
         ["ewr"] = {
@@ -32,23 +32,23 @@ region = {
         },
         ["fueldump"] = {
             ["min"] = 0,
-            ["max"] = 2,
+            ["max"] = 1,
         },
         ["missile"] = {
             ["min"] = 1,
             ["max"] = 1,
         },
         ["oca"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 1,
         },
         ["port"] = {
-            ["min"] = 1,
+            ["min"] = 0,
             ["max"] = 1,
         },
         ["sam"] = {
-            ["min"] = 2,
-            ["max"] = 3,
+            ["min"] = 1,
+            ["max"] = 1,
         },
     },
 }
