@@ -1794,7 +1794,7 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "PersianGulf",
-    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Abu Musa, %LOCATION%.\
+    ["desc"] = "%LOCATIONMETHOD% aircraft on the ramp at Sirri Island, %LOCATION%.\
 \
 Primary Objectives: Destroy the two cargo planes on the ramp.\
 \

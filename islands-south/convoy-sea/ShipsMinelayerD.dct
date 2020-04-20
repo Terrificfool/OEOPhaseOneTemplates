@@ -1,6 +1,7 @@
 metadata = {
-	["rank"]     = 2,
-	["objtype"]  = "ammodump",
-
+	["rank"]     = 1,
+	["objtype"]  = "sea",
 	["base"]     = nil,
+	["intel"]	 = 2,
+	["alwaysSpawn"] = false,
 }
