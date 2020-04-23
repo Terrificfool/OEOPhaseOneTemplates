@@ -1,7 +1,0 @@
-metadata = {
-	["rank"]     = 1,
-	["objtype"]  = "shorad",
-	["base"]     = nil,
-	["intel"]	 = 1,
-	["alwaysSpawn"] = true,
-}

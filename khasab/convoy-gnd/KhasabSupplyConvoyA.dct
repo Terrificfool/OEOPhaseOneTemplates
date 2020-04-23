@@ -1,7 +1,7 @@
 metadata = {
-	["rank"]     = 1,
+	["rank"]     = 2,
 	["objtype"]  = "logistics",
-	["exclusion"] = "",
+	["exclusion"] = nil,
 	["base"]     = nil,
 	["intel"]	 = 2,
 	["alwaysSpawn"] = false,

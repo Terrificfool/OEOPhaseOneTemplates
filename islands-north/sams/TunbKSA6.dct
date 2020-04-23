@@ -3,6 +3,6 @@ metadata = {
 	["objtype"]  = "sam",
 	["exclusion"] = "TunbKSam",
 	["base"]     = nil,
-	["intel"]	 = 2,
+	["intel"]	 = 3,
 	["alwaysSpawn"] = false,
 }

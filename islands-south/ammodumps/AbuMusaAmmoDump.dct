@@ -1,8 +1,8 @@
 metadata = {
-	["rank"]     = 1,
+	["rank"]     = 2,
 	["objtype"]  = "ammodump",
-	["exclusion"] = "",
+	["exclusion"] = nil,
 	["base"]     = nil,
-	["intel"]	 = 2,
+	["intel"]	 = 4,
 	["alwaysSpawn"] = false,
 }

@@ -7,7 +7,7 @@ region = {
             ["max"] = 1,
         },
         ["bunker"] = {
-            ["min"] = 0,
+            ["min"] = 1,
             ["max"] = 2,
         },
         ["checkpoint"] = {

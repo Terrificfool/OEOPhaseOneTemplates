@@ -1,6 +1,8 @@
 metadata = {
 	["rank"]     = 2,
 	["objtype"]  = "basedefense",
-
-	["base"]     = "BASENAME",
+	["exclusion"] = nil,
+	["base"]     = "Sirri",
+	["intel"]	 = 2,
+	["alwaysSpawn"] = true,
 }
