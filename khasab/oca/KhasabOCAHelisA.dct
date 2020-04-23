@@ -1,1 +1,8 @@
-v
+metadata = {
+	["rank"]     = 2,
+	["objtype"]  = "oca",
+	["exclusion"] = nil,
+	["base"]     = nil,
+	["intel"]	 = 4,
+	["alwaysSpawn"] = false,
+}
