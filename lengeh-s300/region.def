@@ -1,6 +1,6 @@
 region = {
     ["name"] = "lengeh-s300",
-    ["priority"] = 50,
+    ["priority"] = 48,
     ["limits"] = {
         ["sam"] = {
             ["min"] = 1,
