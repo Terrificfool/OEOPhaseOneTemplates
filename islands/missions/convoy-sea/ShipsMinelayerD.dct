@@ -1,6 +1,0 @@
-metadata = {
-	["class"] = "convoy",
-	["objtype"]  = "sea",
-	["region"] = "islands",
-	["side"]  = { ["red"] = true, },
-}

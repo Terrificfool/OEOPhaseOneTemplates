@@ -1,6 +1,0 @@
-metadata = {
-	["class"]  = "facility",
-	["objtype"]   = "factory",
-	["region"] = "west qeshm",
-	["side"]   = { ["red"] = true, },
-}

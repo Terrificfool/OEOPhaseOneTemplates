@@ -1,6 +1,0 @@
-metadata = {
-	["class"] = "keepout",
-	["objtype"] = "keepout",
-	["region"] = "jask",
-	["side"]  = { ["red"] = true, },
-}
